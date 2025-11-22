@@ -45,4 +45,4 @@ The quiz questions range in difficulty and challenge the user to guess a country
 Execute the Python script to start your global quest:
 
 ```
-python your_script_name.py
+python main.py
